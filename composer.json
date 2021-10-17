@@ -1,32 +1,32 @@
 {
-    "name": "irazasyed/laravel-identicon",
+    "name": "mikeluicd/laravel-identicon",
     "description": "Laravel Identicon Package",
     "keywords": ["identicon", "avatar", "image", "laravel identicon", "laravel"],
-    "homepage": "https://irazasyed.github.io/laravel-identicon/",
+    "homepage": "https://github.com/mikelucid/laravel-identicon/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Syed I.R",
-            "email": "syed@lukonet.com"
+            "name": "Mike Lucid",
+            "email": "mikelucid@gmail.com"
         }
     ],
     "require": {
         "php": "^7.2 || ^8.0",
         "laravel/framework": "^6.0 || ^7.0 || ^8.0",
-            "yzalis/identicon": "^2.0"
+        "yzalis/identicon": "^2.0"
     },
     "autoload": {
         "psr-4": {
-            "Irazasyed\\LaravelIdenticon\\": "src/"
+            "Mikelucid\\LaravelIdenticon\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Irazasyed\\LaravelIdenticon\\IdenticonServiceProvider"
+                "Mikelucid\\LaravelIdenticon\\IdenticonServiceProvider"
             ],
             "aliases": {
-                "Identicon": "Irazasyed\\LaravelIdenticon\\IdenticonFacade"
+                "Identicon": "Mikelucid\\LaravelIdenticon\\IdenticonFacade"
             }
         }
     }
