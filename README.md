@@ -52,11 +52,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT
 
 ## Security
 
-If you discover any security related issues, please email `syed at lukonet.com` instead of using the issue tracker.
+If you discover any security related issues, please email `mikelucid at gmail.com` instead of using the issue tracker.
 
 ## Credits
 
-- [mikelucid] [link-newauthor]
+- [mikelucid][link-author]
 - [All Contributors][link-contributors]
 
 ## License
@@ -70,7 +70,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-laravel]: https://img.shields.io/badge/Laravel-6~8-FF2D20.svg?style=flat-square&logo=laravel&labelColor=black&logoColor=white
 [ico-version]: https://img.shields.io/packagist/v/irazasyed/laravel-identicon.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/irazasyed/laravel-identicon.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/mikelucid/laravel-identicon.svg?style=flat-square
 
 [link-phpchat]: https://phpchat.co/?ref=laravel-identicon
 [link-telegram]: https://t.me/PHPChatCo
