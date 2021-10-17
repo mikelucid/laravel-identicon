@@ -15,7 +15,7 @@ Laravel-Identicon Package
 ### Installation
 
 ```bash
-$ composer require irazasyed/laravel-identicon
+$ composer require mikelucid/laravel-identicon
 ```
 
 ## Usage
@@ -56,14 +56,14 @@ If you discover any security related issues, please email `syed at lukonet.com` 
 
 ## Credits
 
-- [Syed][link-author]
+- [mikelucid] [link-newauthor]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Firazasyed%2Flaravel-identicon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Firazasyed%2Flaravel-identicon?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%mikelucid%2Flaravel-identicon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%mikelucid%2Flaravel-identicon?ref=badge_large)
 
 [ico-phpchat]: https://img.shields.io/badge/Slack-PHP%20Chat-5c6aaa.svg?style=flat-square&logo=slack&labelColor=4A154B
 [ico-telegram]: https://img.shields.io/badge/@PHPChatCo-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
@@ -74,9 +74,9 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [link-phpchat]: https://phpchat.co/?ref=laravel-identicon
 [link-telegram]: https://t.me/PHPChatCo
-[link-repo]: https://github.com/irazasyed/laravel-identicon
-[link-packagist]: https://packagist.org/packages/irazasyed/laravel-identicon
-[link-downloads]: https://packagist.org/packages/irazasyed/laravel-identicon
-[link-author]: https://github.com/irazasyed
+[link-repo]: https://github.com/mikelucid/laravel-identicon
+[link-packagist]: https://packagist.org/packages/mikelucid/laravel-identicon
+[link-downloads]: https://packagist.org/packages/mikelucid/laravel-identicon
+[link-author]: https://github.com/mikelucid
 [link-contributors]: ../../contributors
 [link-identicon]: https://github.com/yzalis/Identicon
