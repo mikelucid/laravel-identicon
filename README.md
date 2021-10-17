@@ -1,13 +1,11 @@
 Laravel-Identicon Package
 =========================
-[![Join PHP Chat][ico-phpchat]][link-phpchat]
-[![Chat on Telegram][ico-telegram]][link-telegram]
 [![Laravel Package][ico-laravel]][link-repo]
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-> Laravel [Identicon][link-identicon] Package - Extends Identicon Library and Adds Support for Seamless Usage with Laravel.
+> Laravel [Identicon][link-identicon] Package - Extends Identicon Library and Adds Support for Seamless Usage with Laravel. Now working with php8 & Laravel 8!
 
 ## Quick start
 
@@ -65,8 +63,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%mikelucid%2Flaravel-identicon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%mikelucid%2Flaravel-identicon?ref=badge_large)
 
-[ico-phpchat]: https://img.shields.io/badge/Slack-PHP%20Chat-5c6aaa.svg?style=flat-square&logo=slack&labelColor=4A154B
-[ico-telegram]: https://img.shields.io/badge/@PHPChatCo-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
 [ico-laravel]: https://img.shields.io/badge/Laravel-6~8-FF2D20.svg?style=flat-square&logo=laravel&labelColor=black&logoColor=white
 [ico-version]: https://img.shields.io/packagist/v/irazasyed/laravel-identicon.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
