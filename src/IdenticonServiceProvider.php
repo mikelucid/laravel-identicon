@@ -1,6 +1,6 @@
 <?php
 
-namespace Mikelucid\LaravelIdentico;
+namespace Mikelucid\LaravelIdenticon;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
