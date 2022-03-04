@@ -1,6 +1,6 @@
 <?php
 
-namespace Mikelucid\LaravelIdentico;
+namespace Mikelucid\LaravelIdenticon;
 
 use Illuminate\Support\Facades\Facade;
 
